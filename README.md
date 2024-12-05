@@ -173,22 +173,6 @@ task-manager/
 
 ---
 
-## **Future Enhancements**
-
-- **Task Categories**: Group tasks by categories (e.g., Work, Personal).
-- **Due Dates**: Allow users to set deadlines for tasks.
-- **Notifications**: Notify users of overdue tasks.
-- **Collaborative Tasks**: Enable task sharing with other users.
-- **Offline Support**: Sync tasks when offline.
-
----
-
-## **Contributing**
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
----
-
 ## **License**
 
 This project is licensed under the [MIT License](LICENSE).
