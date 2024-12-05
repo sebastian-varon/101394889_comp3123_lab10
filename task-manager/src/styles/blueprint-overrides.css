@@ -1,0 +1,21 @@
+/* Ensure the app uses Blueprint's dark theme */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background-color: #1e1e2f; /* Dark background */
+  color: #000000; /* Light text color */
+}
+
+.bp3-dark {
+  background-color: #1e1e2f; /* Override default dark theme */
+  color: #f5f5f5;
+}
+
+.login-card {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
